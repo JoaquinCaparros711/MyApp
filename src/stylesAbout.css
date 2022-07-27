@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Square+Peg&display=swap');
+
+* {
+    background-color: #060606;
+    box-sizing: border-box;
+    color: #d1d0d7;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    margin-top: 100px;
+    text-align: center;
+}
+
+.container p{
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.education{
+    margin-top: 150px;
+    color: #f2e986;
+}
+
+.education_p{
+    margin-bottom: 100px;
+}
+
+
