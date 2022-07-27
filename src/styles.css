@@ -120,6 +120,11 @@ img{
     margin-left: auto;
     margin-right: auto;
     justify-content: center;
+    background-color: transparent;
+}
+
+.carousel-indicators {
+    background-color: transparent;
 }
 
 /* Footer */
